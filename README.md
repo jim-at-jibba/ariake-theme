@@ -17,7 +17,7 @@ This theme is inspired by Japanese traditional colours.
 
 !["JSON example"][json]
 
-**PHP**`
+**PHP**
 
 !["PHP example"][php]
 
@@ -47,4 +47,4 @@ Please a an issue if you want me to add further styles for other languages.
 [js]: images/js.png "Javascript example"
 [css]: images/css.png "CSS example"
 [json]: images/json.png "JSON example"
-[php]: images/json.png "JSON example"
+[php]: images/php.png "JSON example"
