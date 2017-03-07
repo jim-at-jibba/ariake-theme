@@ -44,7 +44,7 @@ IDE.
 
 Please a an issue if you want me to add further styles for other languages.
 
-[js]: https://github.com/jim-at-jibba/ariake-theme/raw/master/src/common/images/js.png "Javascript example"
-[css]: https://github.com/jim-at-jibba/ariake-theme/raw/master/src/common/images/css.png "CSS example"
-[json]: https://github.com/jim-at-jibba/ariake-theme/raw/master/src/common/images/json.png "JSON example"
-[php]: https://github.com/jim-at-jibba/ariake-theme/raw/master/src/common/images/json.png "JSON example"
+[js]: images/js.png "Javascript example"
+[css]: images/css.png "CSS example"
+[json]: images/json.png "JSON example"
+[php]: images/json.png "JSON example"
