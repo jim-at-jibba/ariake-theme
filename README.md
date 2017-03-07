@@ -44,7 +44,7 @@ IDE.
 
 Please a an issue if you want me to add further styles for other languages.
 
-[js]: images/js1.png "Javascript example"
-[css]: images/css1.png "CSS example"
-[json]: images/json1.png "JSON example"
-[php]: images/json1.png "JSON example"
+[js]: images/js.png "Javascript example"
+[css]: images/css.png "CSS example"
+[json]: images/json.png "JSON example"
+[php]: images/json.png "JSON example"
