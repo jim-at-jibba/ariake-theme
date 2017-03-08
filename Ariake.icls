@@ -1,10 +1,10 @@
 <scheme name="Ariake" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2017-03-07T10:24:01</property>
+    <property name="created">2017-03-06T13:21:33</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-07T10:24:42</property>
-    <property name="originalScheme">Besty New Dark</property>
+    <property name="modified">2017-03-08T16:29:52</property>
+    <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -249,6 +249,30 @@
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="ba45ed" />
+        <option name="ERROR_STRIPE_COLOR" value="ba45ed" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="1dafa8" />
+        <option name="ERROR_STRIPE_COLOR" value="1dafa8" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="337dcc" />
+        <option name="ERROR_STRIPE_COLOR" value="337dcc" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="dda2f6" />
+        <option name="ERROR_STRIPE_COLOR" value="7e7edd" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -12366,7 +12390,11 @@
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="dda2f6" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="dda2f6" />
+      </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value />
@@ -12418,7 +12446,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="dda2f6" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TYPO">
