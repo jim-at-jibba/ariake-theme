@@ -42,6 +42,8 @@ I use the [Fira Code](https://github.com/tonsky/FiraCode) font, which works well
 I also recommend using the ColorIDE plugin which will match the background of your editor with the background of the rest of the
 IDE.
 
+There is a matching Iterm2 color scheme available [here](https://github.com/jim-at-jibba/ariake-theme-iterm2)
+
 Please a an issue if you want me to add further styles for other languages.
 
 [js]: images/js.png "Javascript example"
